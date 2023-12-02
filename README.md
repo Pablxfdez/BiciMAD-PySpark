@@ -1,4 +1,4 @@
-# BiciMAD Group 13
+# BiciMAD Project
 
 This is the Bicimad assignment by Pablo Fernández, Gabriel Alba and Joaquín Velarde.
 
